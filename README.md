@@ -1,4 +1,5 @@
 # 억만장자 데이터 군집 분석
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12098879
 ![image](https://github.com/user-attachments/assets/6415c69c-1e0d-4c64-8b7b-5822fb2c7db9)
 ![image](https://github.com/user-attachments/assets/bb33406e-2025-4fcb-b915-af315faed789)
 ![image](https://github.com/user-attachments/assets/14c07705-a244-4344-a276-e4405a7bea8d)
